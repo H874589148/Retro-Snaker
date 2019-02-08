@@ -198,7 +198,7 @@
         <state relative-caret-position="162">
           <caret line="125" column="26" lean-forward="false" selection-start-line="125" selection-start-column="26" selection-end-line="125" selection-end-column="26" />
           <folding>
-            <element signature="e#23#49#0" expanded="true" />
+            <element signature="e#23#49#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -208,7 +208,7 @@
         <state relative-caret-position="-140">
           <caret line="135" column="50" lean-forward="false" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
           <folding>
-            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="false" />
           </folding>
         </state>
       </provider>
